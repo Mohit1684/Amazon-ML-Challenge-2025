@@ -1,6 +1,11 @@
 # Amazon ML Challenge 2025: Smart Product Pricing
 **Ranked 298 / 74,000+ (Top 0.4%)** | **Final SMAPE: 47.5357%**
 
+## 👥 Team
+This project was developed by:
+* **Mohit Patel**
+* **Raj Desai (https://github.com/rajdesai1510)**
+* **Utsav Bhalani (https://github.com/Utsav-Bhalani)**
 ## 📌 Project Overview
 Developed a multi-modal machine learning solution to predict e-commerce product prices based on catalog text and product images. The challenge involved handling 75,000 training samples and optimizing for the Symmetric Mean Absolute Percentage Error (SMAPE).
 
