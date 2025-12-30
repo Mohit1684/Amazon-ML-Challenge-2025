@@ -1,0 +1,10 @@
+# Ignore large datasets
+data/train.csv
+data/test.csv
+*.pkl
+*.zip
+*.log
+
+# Keep small samples
+!data/sample_test.csv
+!data/sample_test_out.csv
